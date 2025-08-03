@@ -4,7 +4,7 @@
 :office: Data Analyst @ Nucleo
 
 
-## :inbox_tray:Socials
+## :inbox_tray:Contact Me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciabrown17/)
 [![Email](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:luciabrown1015@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_luciabrown/)
