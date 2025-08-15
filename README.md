@@ -20,6 +20,6 @@
 ![SQL](https://img.shields.io/badge/SQL-navy?style=for-the-badge&logo=sqlite&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white) ![UML](https://img.shields.io/badge/UML-FABD14?style=for-the-badge&logo=UML&logoColor=white) ![XML](https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logo=XML&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![ARCGIS](https://img.shields.io/badge/arcgis-2C7AC3?style=for-the-badge&logo=arcgis&logoColor=white) 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=luciabrown&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=luciabrown&theme=radical&langs_count=8&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=luciabrown&theme=radical&langs_count=12&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![readme stats](https://github-readme-stats.vercel.app/api?username=luciabrown&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10)
 
