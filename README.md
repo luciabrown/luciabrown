@@ -2,6 +2,7 @@
 :house: Swords, Dublin
 :school: Trinity College Dublin
 :office: Data Analyst @ Nucleo
+🧑‍🏫 Demonstrator of Symbolic Programming 
 
 
 ## :inbox_tray:Contact Me!
@@ -9,9 +10,11 @@
 [![Email](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:luciabrown1015@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_luciabrown/)
 [![GitLab](https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.scss.tcd.ie/brownlu)
+[![Discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@luciabrown)
 
-## :computer:Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-3babc3?style=for-the-badge&logo=flask&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=Haskell&logoColor=white) ![ARMAssembly](https://img.shields.io/badge/arm-0091BD?style=for-the-badge&logo=arm&logoColor=white) 
+## :computer:Languages & Frameworks
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=grey) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-3babc3?style=for-the-badge&logo=flask&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=Haskell&logoColor=white) ![ARMAssembly](https://img.shields.io/badge/arm-0091BD?style=for-the-badge&logo=arm&logoColor=white) ![scikitlearn](https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  ![Microbit](https://img.shields.io/badge/microbit-00ED00?style=for-the-badge&logo=microbit&logoColor=grey) ![NodeJS](https://img.shields.io/badge/Node.JS-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
+
 
 ## 🌐DevOps
 ![Docker](https://img.shields.io/badge/Docker-%2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white) ![Hetzner](https://img.shields.io/badge/Hetzner-d50c2d.svg?style=for-the-badge&logo=hetzner&logoColor=white) ![Porkbun](https://img.shields.io/badge/Porkbun-EF7878.svg?style=for-the-badge&logo=Porkbun&logoColor=white)
