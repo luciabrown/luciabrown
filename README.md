@@ -1,8 +1,7 @@
 ## Hi there 👋 I'm Lucia
 :house: Swords, Dublin
 :school: Trinity College Dublin
-:office: Data Analyst @ Nucleo
-🧑‍🏫 Demonstrator of Symbolic Programming 
+:office: Network & Infrastructure Intern @ Abbott
 
 
 ## :inbox_tray:Contact Me!
